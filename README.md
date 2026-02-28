@@ -34,6 +34,16 @@ A continuación, se muestran los diferentes escenarios de ejecución del program
 
 ---
 
-## 👤 Autor
+## Autor
+
+Jose Garrido Mesa
+
+
+
+
+
+
+
+
 - Tu Nombre Completo
 - Estudiante de Programación Básica
